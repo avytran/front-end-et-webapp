@@ -3,6 +3,8 @@
 
 Welcome to the **Economic Technology Club** front-end repository! This project aims to provide a seamless platform for introducing the club, sharing news, and showcasing upcoming events. Built with **ReactJS**, it brings the latest economic tech insights to our community.
 
+![Screenshot 2024-11-22 105425](https://github.com/user-attachments/assets/e5805f8b-c6cc-4fd5-9b63-90ab9079bd34)
+
 ---
 
 ## 🌟 Features
